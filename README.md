@@ -78,6 +78,9 @@ The namespace consists of the following sub-namespaces:
 
 <div class="namespace-toc">
 
+-   <span class="signature">[`special`][@stdlib/math/array/special]</span><span class="delimiter">: </span><span class="description">special math functions applied to arrays.</span>
+-   <span class="signature">[`tools`][@stdlib/math/array/tools]</span><span class="delimiter">: </span><span class="description">math array function tools.</span>
+
 </div>
 
 <!-- </toc> -->
@@ -186,6 +189,10 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-array/main/LICENSE
 
 <!-- <toc-links> -->
+
+[@stdlib/math/array/special]: https://github.com/stdlib-js/math-array-special
+
+[@stdlib/math/array/tools]: https://github.com/stdlib-js/math-array-tools
 
 <!-- </toc-links> -->
 
