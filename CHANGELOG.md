@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-17)
+## Unreleased (2025-04-07)
 
 <section class="packages">
 
@@ -211,9 +211,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Gururaj Gurram
 -   Philipp Burckhardt
 
 </section>
@@ -226,6 +227,9 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`15e183d`](https://github.com/stdlib-js/stdlib/commit/15e183d2511a067e373aee356f8b36ce5717278a) - **docs:** update namespace TypeScript declarations [(#6242)](https://github.com/stdlib-js/stdlib/pull/6242) _(by stdlib-bot)_
+-   [`97ed648`](https://github.com/stdlib-js/stdlib/commit/97ed6482bfa82bba41232501323afca2d7e4d95c) - **docs:** add returns annotations _(by Philipp Burckhardt)_
+-   [`3938b26`](https://github.com/stdlib-js/stdlib/commit/3938b265e603116448c89fcaa58df70e79d40f59) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`211d758`](https://github.com/stdlib-js/stdlib/commit/211d7589cc78cf73556270c7bd8e669537d21799) - **feat:** update namespace TypeScript declarations [(#5511)](https://github.com/stdlib-js/stdlib/pull/5511) _(by stdlib-bot)_
 -   [`2f0aa48`](https://github.com/stdlib-js/stdlib/commit/2f0aa48ef6d561779d4bd4c4a54fe00a5a26c0e1) - **feat:** update namespace TypeScript declarations [(#5436)](https://github.com/stdlib-js/stdlib/pull/5436) _(by stdlib-bot)_
 -   [`9d532b5`](https://github.com/stdlib-js/stdlib/commit/9d532b5510055d80c5df8ba4c8e897c1670dcd1a) - **docs:** update namespace table of contents [(#5438)](https://github.com/stdlib-js/stdlib/pull/5438) _(by stdlib-bot, Philipp Burckhardt)_
