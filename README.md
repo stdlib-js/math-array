@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-array@deno/mod.js';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-array@v0.1.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { special, tools } from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-array@deno/mod.js';
+import { special, tools } from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-array@v0.1.0-deno/mod.js';
 ```
 
 #### ns
@@ -87,7 +87,7 @@ The namespace consists of the following sub-namespaces:
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@deno/mod.js';
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-array@deno/mod.js';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-array@v0.1.0-deno/mod.js';
 
 console.log( objectKeys( ns ) );
 ```
